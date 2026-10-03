@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+
+.Btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin:2.5rem;
+
+}
+
+.Btncontainer{
+    display: flex;
+    justify-content: center;
+}
+
+.Btn.pink{
+    background-color: pink; 
+} 
+.Btn.blue{
+    background-color: blue; 
+}   
+.Btn.green{
+    background-color: green; 
+}   
+.Btn.yellow{
+    background-color: yellow; 
+}
+.Btn.flash{
+    background-color: white; 
+}     
